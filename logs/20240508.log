@@ -1,0 +1,5 @@
+[ERROR] 2024-05-08 12:54:10 - Please provide a valid Domain or IP address!
+[ERROR] 2024-05-08 12:54:10 - Retrieving IP Geolocation information failed.
+[INFO] 2024-05-08 12:54:21 - Retrieving 192.168.45.16 Geolocation..
+[INFO] 2024-05-08 12:54:22 - User-Agent used: IP2GeoLocation 2.0.4
+[INFO] 2024-05-08 12:54:22 - Geolocation information has been retrieved for 192.168.45.16(192.168.45.16).
